@@ -2,7 +2,7 @@
 Repository for Learning and Wellbeing 2021 (Mentor: Bassam Al-Salemi, PhD; Mentee: Elaine K.)
 
 For Webscrap:
-Please install latest chromedriver at https://chromedriver.storage.googleapis.com/index.html?path=2.42/ 
+Please install latest chromedriver at https://chromedriver.storage.googleapis.com/index.html?path=2.42/   
 Install also selenium package (!pip install selenium)
 
 Download pretrained Universal Sentence Encoder at https://tfhub.dev/google/universal-sentence-encoder-large/5  
